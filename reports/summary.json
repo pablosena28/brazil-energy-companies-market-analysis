@@ -1,0 +1,45 @@
+{
+  "unique_rows": 250,
+  "period": {
+    "start": "2021-03-22",
+    "end": "2022-03-22"
+  },
+  "companies": [
+    "Petrobras",
+    "Aeris Energy",
+    "Alupar",
+    "AES Brasil",
+    "Cemig",
+    "Cesp"
+  ],
+  "best_return": {
+    "company": "Petrobras",
+    "return_pct": 47.53
+  },
+  "worst_return": {
+    "company": "Aeris Energy",
+    "return_pct": -37.5
+  },
+  "lowest_volatility": {
+    "company": "Alupar",
+    "volatility_pct": 20.21
+  },
+  "deepest_drawdown": {
+    "company": "Aeris Energy",
+    "drawdown_pct": -51.68
+  },
+  "strongest_correlation": {
+    "pair": [
+      "AES Brasil",
+      "Cemig"
+    ],
+    "correlation": 0.501
+  },
+  "weakest_correlation": {
+    "pair": [
+      "Petrobras",
+      "Cesp"
+    ],
+    "correlation": 0.028
+  }
+}
